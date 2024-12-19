@@ -6,7 +6,11 @@ The job market for cybersecurity professionals can feel like navigating a labyri
 ## Discovery and Investigation
 On Wednesday, 12/18/2024, at 5:26 PM, I received an email from Connor Redden about my Security Analyst application at Navagis Inc. The email states that they are excited to learn more about me and my qualifications, and would like to interview me for the position. They asked me to acknowledge this invitation to interview tomorrow (12/19/2024) at 10:00 AM.
 
+![email](https://github.com/user-attachments/assets/543109ae-f202-49b1-a176-199411b318d9)
+
 Initially, I thought my luck had finally caught up, and I would be able to interview for a position, so I replied and said yes. After sending the reply at 7:58 PM, I proceeded to prepare for the interview by trying to find my original application. I searched through my inbox and found no other emails about Navagis or this Security Analyst position except for the one email from Connor. At this point, skepticism started to kick in, and it became my job to figure out if this was a real email or not.
+
+*Why wasn't my name addressed in the email? Why is there no one's name at the end? Why are they sending me an invitation to interview after at 5pm, when the interview is the next day at 10am? Why are they trying to rush me to provide a response?* **Something has to be up.**
 
 First, I checked everywhere to make sure that I even applied to this position since the name sounded familiar. I looked at my Job App Excel sheet to see if I ever put down Navagis, and there was no presence of it. I followed up by looking at my applied jobs on LinkedIn, Dice, Indeed, and ZipRecruiter, aaaaaannddddddd zilcho. Nada. Absolutely nothing was found.
 
